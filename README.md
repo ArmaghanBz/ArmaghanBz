@@ -5,5 +5,5 @@ You can click the Preview link to take a look at your changes.
 --->
 # Studies at: 
 Student at Bahria University. Currently doing Bachelors in Computer Science.
-# Languages that i'm focusing on 
+# Skill that i'm looking to Develope: 
 My main focus is in C++, PYTHON, HTML, CSS, JAVASCRIPT and Flutter.
