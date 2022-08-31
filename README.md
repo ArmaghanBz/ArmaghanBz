@@ -1,7 +1,7 @@
 Hi 👋 My name is Armaghan Bin Zahid
 ===================================
 
-MERN stack developer | Blockchain Enthusiast
+CS undergrad | Web Developer
 --------------------------------------------
 
 I am a computer science student, doing bachelors. I have been learning to code for a couple of years.
