@@ -1,7 +1,7 @@
 Hi 👋 My name is Armaghan Bin Zahid
 ===================================
 
-CS undergrad | MERN STACK DEVELOPER
+CS undergrad | MERN | Unity Game-Developer
 --------------------------------------------
 
 I am a computer science student, doing bachelors. I have been learning to code for a couple of years.
