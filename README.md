@@ -4,11 +4,11 @@ Hi 👋 My name is Armaghan Bin Zahid
 CS undergrad | Unity Game-Developer
 --------------------------------------------
 
-I am a computer science student, doing bachelors. I have been learning to code for a couple of years.
+I am a computer science student, doing bachelors in computer science.
 
 * 🌍  I'm based in Lahore, Pakistan.
 * ✉️  You can contact me at [armaghanbinzahid@gmail.com](mailto:armaghanbinzahid@gmail.com)
-* 🤝  I'm open to collaborating on web developement
+* 🤝  I'm open to collaborating on Game development projects
 * ⚡  I do love books.
 
 ### Skills
