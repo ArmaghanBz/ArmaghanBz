@@ -1,7 +1,7 @@
 Hi 👋 My name is Armaghan Bin Zahid
 ===================================
 
-CS undergrad | Game-Developer
+CS | Game-Developer | Unity
 --------------------------------------------
 
 I am a computer science student, doing bachelors in computer science.
